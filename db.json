@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "Complete React todo app",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "content": "Set up JSON Server",
+       "status": "completed"
+
+    },
+    {
+      "id": 3,
+      "content": "Implement CRUD operations",
+      "status": "in-progress"
+    },
+    {
+      "id": 4,
+      "content": "Add form validation",
+      "status": "pending"
+    },
+    {
+      "id": 5,
+      "content": "Write unit tests",
+      "status": "pending"
+    }
+  ]
+}
